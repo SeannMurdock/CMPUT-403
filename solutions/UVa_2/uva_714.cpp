@@ -12,7 +12,7 @@
  *
  * Solution Summary:
  *
- * The textbook suggestes combining the Binary Search algorithm with the greedy solution.
+ * The textbook suggests combining the Binary Search algorithm with the greedy solution.
  * We can safely assume that the least amount of pages possible for a scribe would be the number of
  * pages in the thickest book. And the largest possible amount is the sum of all books. It is important to catch the overflows. 
  * 
